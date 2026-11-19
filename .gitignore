@@ -1,0 +1,9 @@
+*.key
+*.psk
+*.pem
+*.conf
+!templates/*.conf.tpl
+secrets/
+results/
+*.log
+tools/domains.txt

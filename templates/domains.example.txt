@@ -1,0 +1,3 @@
+# One hostname per line. Use hosts you are allowed to test.
+# Copy this file, replace the placeholder, and do not commit the copy.
+<test-domain>
